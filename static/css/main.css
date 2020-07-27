@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    background-image: url("https://images.alphacoders.com/940/thumb-1920-94063.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form{
+    display:inline-block;
+    margin: auto;
+    padding-left: 650px;
+
+
+}
+
+
