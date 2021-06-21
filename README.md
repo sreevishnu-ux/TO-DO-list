@@ -5,7 +5,7 @@ This is a simple to-do list that can be used as a notepad to write down your tas
 # The project is built using:
 - HTML5/CSS for frontend
 - Python and Flask microframework for the backend
-- MySQL Workbench for the database
+
 
 # Installation
 To use this template, your computer needs:
