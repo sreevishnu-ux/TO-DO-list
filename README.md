@@ -1,6 +1,6 @@
-# TO-DO-list
+# Task Master
 This is my first major project using the flask framework.
-This is a simple to-do list that can be used as a notepad to write down your tasks and be systematic.
+This is a to-do list that can be used as a notepad to write down your tasks and be systematic.
 
 # The project is built using:
 - HTML5/CSS for frontend
