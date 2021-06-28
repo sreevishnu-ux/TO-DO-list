@@ -13,7 +13,7 @@ To use this template, your computer needs:
 - [python2 or python3](https://www.python.org/downloads/)
 
 
-## Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 # Screenshots
